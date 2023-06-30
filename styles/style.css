@@ -105,6 +105,13 @@ body {
 .apresentacao__links__botoes:hover {
     background-color: var(--cor-hover);
 }
+
+.apresentacao__imagem {
+    width: 50%;
+
+}
+
+
 .rodape {
     display: flex;
     justify-content: center;
